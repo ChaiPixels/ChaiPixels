@@ -1,3 +1,4 @@
+
 #title {
     background-color: blanchedalmond;
     border-radius: 9px;
@@ -19,10 +20,20 @@
 #move {
     background-color: aqua;
     border-radius: 5px;
-    p
+    padding: 1px;
 }
 
 body ::selection {
     color: #333;
     background: rgba(255, 255, 0, 0.5); /* Semi-transparent yellow */
+}
+
+#early {
+    background-color: yellow; /* Orange background */
+    color: #3498db; /* Blue text */
+}
+
+#imp{
+    background-color: aquamarine;
+    color: #436543;
 }
