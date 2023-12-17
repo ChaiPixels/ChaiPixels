@@ -1,0 +1,28 @@
+#title {
+    background-color: blanchedalmond;
+    border-radius: 9px;
+}
+
+#starting-line {
+    font-weight: 700;
+    font-size: larger;
+}
+
+#second-line {
+    font-weight: 800;
+    background-color: rgba(240, 223, 95, 0.773);
+    border-radius: 9px;
+    padding: 10px;
+    font-size: large;
+}
+
+#move {
+    background-color: aqua;
+    border-radius: 5px;
+    p
+}
+
+body ::selection {
+    color: #333;
+    background: rgba(255, 255, 0, 0.5); /* Semi-transparent yellow */
+}
